@@ -1,0 +1,9 @@
+SYNTHETIC SAMPLE REPORT — NOT FROM A PRODUCTION DESIGN
+Tool style: OpenROAD-compatible summary
+
+Design area (um^2): 18120.0
+Core utilization (%): 39.2
+Total DRC violations: 6
+Maximum clock skew (ns): 0.240
+Clock insertion delay (ns): 0.810
+

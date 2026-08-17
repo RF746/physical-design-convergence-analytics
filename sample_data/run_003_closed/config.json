@@ -1,0 +1,9 @@
+{
+  "run_id": "run_003_closed",
+  "clock_period_ns": 10.0,
+  "process_corner": "synthetic_nominal",
+  "target_utilization_pct": 40.0,
+  "flow_variant": "closed",
+  "change_note": "Synthetic final timing and routing cleanup"
+}
+

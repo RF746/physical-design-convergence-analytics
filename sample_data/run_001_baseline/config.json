@@ -1,0 +1,9 @@
+{
+  "run_id": "run_001_baseline",
+  "clock_period_ns": 10.0,
+  "process_corner": "synthetic_nominal",
+  "target_utilization_pct": 40.0,
+  "flow_variant": "baseline",
+  "change_note": "Synthetic initial placement and clock-tree run"
+}
+

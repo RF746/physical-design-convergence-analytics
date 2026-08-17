@@ -1,0 +1,9 @@
+SYNTHETIC SAMPLE REPORT — NOT FROM A PRODUCTION DESIGN
+Tool style: OpenROAD-compatible summary
+
+Total cell area: 18,600.0 um^2
+Core utilization: 40.2%
+Total DRC violations = 0
+Max clock skew = 0.190 ns
+Clock insertion delay = 0.760 ns
+

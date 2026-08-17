@@ -1,0 +1,9 @@
+{
+  "run_id": "run_002_timing_fix",
+  "clock_period_ns": 10.0,
+  "process_corner": "synthetic_nominal",
+  "target_utilization_pct": 40.0,
+  "flow_variant": "timing_fix",
+  "change_note": "Synthetic buffering and placement refinement"
+}
+
